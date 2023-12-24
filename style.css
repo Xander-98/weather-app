@@ -5,7 +5,9 @@
     box-sizing: border-box;
 }
 body{
-    background: #969595;
+    background-image: url(images/CtmQ.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .card{
     width: 90%;
